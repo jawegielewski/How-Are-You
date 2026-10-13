@@ -40,7 +40,6 @@ app/src/main/java/pl/jawegiel/howareyou/
 │   ├── di/                 # Hilt Modules (Firebase, Repository, SharedPreferences)
 ├── data/
 │   ├── datasource/         # Remote and local data sources (Firebase & SharedPreferences)
-│   ├── local/              # Local persistence implementations
 │   ├── model/              # Data models (Post, Interaction)
 │   └── repository/         # Repository implementations
 ├── domain/

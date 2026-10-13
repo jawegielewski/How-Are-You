@@ -28,7 +28,7 @@ App stage of production - **MVP**.
 - **Dependency Injection**: [Hilt (Dagger)](https://dagger.dev/hilt/) for robust, testable dependency management.
 - **Backend**: [Firebase Realtime Database](https://firebase.google.com/docs/database) for persistent, real-time data synchronization.
 - **Local Storage**: SharedPreferences for local configuration/state.
-- **Utilities**: ThreeTenABP for robust date and time handling and support 15 Android API level.
+- **Utilities**: ThreeTenABP for robust date and time handling and support low Android API level.
 
 ---
 

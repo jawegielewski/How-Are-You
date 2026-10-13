@@ -70,7 +70,7 @@ app/src/main/java/pl/jawegiel/howareyou/
 2. **Open in Android Studio**:
    Open the cloned project folder in Android Studio.
 3. **Configure Firebase**:
-   - Add your Android app package (`pl.jawegiel.howareyou`) to your Firebase Console project.
+   - Add your Android app package (`your.package.name`) to your Firebase Console project.
    - Download the `google-services.json` file.
    - Place `google-services.json` inside the `app/` directory (`app/google-services.json`).
 4. **Sync Project with Gradle Files**:
